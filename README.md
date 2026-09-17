@@ -1,5 +1,7 @@
 # galaxy.lol
 
+i like galaxies - From G4L4X7
+
 ## galaxy.lol is a config menu for the II Stupid Menu, it has these features!
 - Galaxy Theme
 - Mods you might already like in the favourite tab!
